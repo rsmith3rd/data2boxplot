@@ -15,13 +15,13 @@ import streamlit as st
 st.set_page_config(page_title="\U0001F4E6 Data to Boxplot + ANOVA", layout="wide")
 st.markdown("""
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-JL0LVN9FL9"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T32QR2N5C2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-JL0LVN9FL9');
+  gtag('config', 'G-T32QR2N5C2');
 </script>
 """, unsafe_allow_html=True)
 
