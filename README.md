@@ -25,7 +25,7 @@
 
 | Upload your file | Boxplot Output | Tukey HSD |
 |------------------|----------------|-----------|
-| ![Upload](assets/upload.png) | ![Plot](assets/boxplot.png) | ![Tukey](assets/tukey.png) |
+| ![Upload](assets/upload.png) | ![Plot](assets/boxplot.png) | ![Tukey]([assets/tukey.png](https://raw.github.com/rsmith3rd/data2boxplot/blob/main/assets/tukey.png)) |
 
 ---
 
