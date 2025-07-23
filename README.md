@@ -1,9 +1,13 @@
 # 📦 data2boxplot
 
 **data2boxplot** is a lightweight, powerful web app that instantly transforms CSV data into publication-quality boxplots — complete with ANOVA and Tukey HSD analysis. No coding required.
+🧪 Built with Python, Streamlit, pandas, seaborn, and statsmodels.
+
+---
+
+## 🌐 Website
 
 ➡️ Try it live: [https://data2boxplot.com](https://data2boxplot.com)  
-🧪 Built with Python, Streamlit, pandas, seaborn, and statsmodels.
 
 ---
 
