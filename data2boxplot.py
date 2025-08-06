@@ -9,6 +9,11 @@ import statsmodels.api as sm
 from statsmodels.formula.api import ols
 from statsmodels.stats.multicomp import pairwise_tukeyhsd
 import csv
+import os
+
+# Ensure Streamlit binds to the correct port
+os.environ["STREAMLIT_SERVER_PORT"] = os.environ.get("PORT", "8080")
+
 
 import streamlit as st
 
